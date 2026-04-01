@@ -1,89 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Haram Yeo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Haram Yeo
+Supply Chain Management & Data Science Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ramy00yhr@gmail.com">ramy00yhr@gmail.com</a>
+| <a href="https://www.linkedin.com/in/haram-yeo">LinkedIn</a>
+| 986-497-7453
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Supply Chain Management major with a Data Science minor at BYU-Idaho, focused on data-driven decision making, operations optimization, and analytics.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data Analytics, Supply Chain Optimization, Process Improvement, Business Strategy
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Data analytics, supply chain systems, process optimization, machine learning, and operational efficiency
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2024 – Jul 2027`  
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor’s in Supply Chain Management
+- Minor in Data Science
+- GPA: 4.0 / 4.0
+- Full Academic Scholarship
+- President, Supply Chain Management Society (Sep 2025 – Dec 2025)
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+Programming: Python, ML  
+Data Tools: Excel, SQL, R, Power BI, Tableau
 
-- Fellow
+## Business Projects
 
+`Oct 2025 – Dec 2025`  
+__Operations Consulting Project | Mac Shack, Rexburg, Idaho__
 
+- Developed a capacity model analyzing 100+ orders
+- Identified bottlenecks at 10 parties/hour
+- Recommended adding tables to increase throughput
+
+`Jul 2025`  
+__Sales Data Analysis Project, Rexburg, Idaho__
+
+- Queried and analyzed 133,440 sales records
+- Identified repeat purchase patterns driving 28.27% of transactions
+- Uncovered inefficiencies in promotion strategy
+
+## Experience
+
+`Oct 2024 – Dec 2024`  
+__Manito Scoop | Founder, Seoul, South Korea__
+
+- Increased packaging productivity by 20% by redesigning workflows from 60 to 72 units/hour
+- Optimized supply chain by sourcing directly from suppliers, cutting costs by 20%
+- Launched and managed an online candy store, generating $900 in sales in 10 weeks
+
+`Apr 2024 – Jul 2024`  
+__Spud Shack (Student-Run Business) | CEO, Rexburg, Idaho__
+
+- Reduced COGS from 43% to 25% in 4 weeks by adjusting portion sizes and improving menu-cost alignment
+- Guided innovation KPIs to 100% and achieved 87% prototype customer satisfaction before launch
+- Achieved 88% overall customer satisfaction within the first 4 weeks
+- Directed cross-functional teams to launch a student-run food business, generating $5,332 in revenue in 9 weeks
+
+`Sep 2022 – Dec 2023`  
+__I-Sense PC Cafe | Manager, Seoul, South Korea__
+
+- Redesigned kitchen workflow layout, reducing average food prep time by 10%
+- Supervised a 4-person staff, oversaw scheduling and inventory, and maintained 90%+ customer satisfaction
+- Trained 5+ new employees on operational standards, reducing onboarding time
+
+`Jan 2021 – Jul 2022`  
+__Republic of Korea Army | Administrative Assistant, HR, Gangwon, South Korea__
+
+- Led a team of 5 soldiers and supervised inventory of 1,000+ military assets with 100% accountability during audits
+- Created digital forms for leave requests, certifications, and financial aid, reducing processing time by 15%
+- Oversaw HR records for 90+ soldiers, ensuring 100% audit accuracy and confidentiality compliance
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Republic of Korea Army`  
+- Special Warrior Award: Selected as a top-tier combat soldier based on excellence in marksmanship, physical training, mental resilience, and tactical leadership (top 10% of unit)
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`BYU-Idaho`  
+- Unsung Hero Small ‘l’ Leadership Award, IBC Class (Spring 2024)
